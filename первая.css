@@ -5,9 +5,9 @@ body {
 .container {
     background:#fff;
     overflow:hidden;
-    width: 02px;
+    width: 602px;
     background:#fff;
-    box-shadow:025px 40px rgba(0,0,0,0.4);
+    box-shadow:0 25px 40px rgba(0,0,0,0.4);
     border-radius:5px;
     margin:auto;
 }
