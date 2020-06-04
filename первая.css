@@ -6,7 +6,6 @@ body {
     background:#fff;
     overflow:hidden;
     width: 602px;
-    background:#fff;
     box-shadow:0 25px 40px rgba(0,0,0,0.4);
     border-radius:5px;
     margin:auto;
@@ -35,4 +34,6 @@ h3 { color: #f56332; }
     color: #fff;
     text-shadow: 0 -1px 0 rgba(0,0,0,0.1);
     border-radius: 2px;
+    cursor: pointer;
+    user-select: none;
 }
